@@ -1,0 +1,89 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.Gmail{
+    display: flex;
+    justify-content: space-around;
+    margin: 8px;
+    width: 50px;
+
+}
+
+.Images{
+    display: flex;
+    justify-content: space-around;
+    margin: 8px;
+    width: 50px;
+}
+
+.Icon1{
+    display: flex;
+    justify-content: space-around;
+    margin: 8px;
+    width: 50px;
+}
+
+.avatar {
+    display: flex;
+    justify-content: space-around;
+    width: 20px;
+    height: 20px;
+  }
+
+  a {
+    text-decoration: none;
+    color: black; 
+   }
+
+   .footer{
+    flex-grow: 1;
+    min-height: 100vh;
+    flex-direction: column;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    background-color: burlywood;
+}
+
+.Tchad{
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+    margin: 8px;
+    width: 50px;
+    color: gray;
+}
+
+.bouton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.recherche{
+    display: flex;
+    justify-content: space-around;
+    margin: 8px;
+    width: 50px;
+
+}
+.chance{
+    display: flex;
+    justify-content: space-around;
+    margin: 8px;
+    width: 50px;
+
+}
+ .logo{
+    display: flex;
+    height: 80px;
+    align-items: center;
+    padding-top: 10%;
+    flex-direction: column;
+
+ }
